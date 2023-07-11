@@ -8,4 +8,8 @@ enum calc_errors : int {
     operation_error
 }; 
 
-int calc();
+double add(double x1, double x2);
+double sub(double x1, double x2);
+double mul(double x1, double x2);
+double div(double x1, double x2);
+double exp(double x1, double x2);

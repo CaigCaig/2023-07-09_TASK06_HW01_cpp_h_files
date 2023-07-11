@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2023-07-09_TASK06_HW01_cpp_h_files.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="calc.cpp" />
   </ItemGroup>
   <ItemGroup>
